@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Test</string>
+
+    <string-array name="countries_list">
+        <item>None</item>
+        <item>Indian</item>
+        <item>Chinese</item>
+        <item>Mexican</item>
+    </string-array>
+
+</resources>
